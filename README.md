@@ -1,5 +1,7 @@
 <div align="center">
 
+<img src="avatar.png" width="160" height="160" style="border-radius: 50%; max-width: 100%; border: 3px solid #0A66C2;" alt="Dennis Wilken" />
+
 # Dennis Wilken
 ### Lead AI Automation Architect & Vibe Coding Specialist
 **Dennis Wilken – AI Architecture & Development** • Osnabrück, Germany
