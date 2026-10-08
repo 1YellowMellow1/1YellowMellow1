@@ -3,7 +3,7 @@
 <img src="avatar.png" width="160" height="160" style="border-radius: 50%; max-width: 100%; border: 3px solid #0A66C2;" alt="Dennis Wilken" />
 
 # Dennis Wilken
-### Lead AI Automation Architect & Vibe Coding Specialist
+### AI Solution Architect & Vibe Coder
 **Dennis Wilken – AI Architecture & Development** • Osnabrück, Germany
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-Dennis%20Wilken-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/dennis-wilken/)
@@ -15,17 +15,18 @@
 
 </div>
 
-## 🎯 Über mich & Philosophie: Der Dirigent & Architekt
+## 🎯 Über mich: Der Dirigent & Architekt (Vibe Coding)
 
-Als **Lead AI Automation Architect** und Spezialist für **Vibe Coding** verstehe ich moderne Softwareentwicklung als Orchestrierung hochentwickelter KI-Modelle und skalierbarer Systemarchitekturen. Mein Ansatz:
+Ich entwickle Software heute nicht mehr durch mühsames Eintippen von Quellcode Zeile für Zeile. Ich spreche keine Programmiersprache flüssig und lese Code nicht manuell auf Syntaxebene – ich bin **Vibe Coder und System-Architekt**.
 
-- **Architektur vor Syntax:** Fokus auf systemische Stabilität, reaktive Datenflüsse und zukunftssichere Skalierbarkeit, während modernste KI-Modelle die hochfrequente Implementierung übernehmen.
-- **Multi-Modell-Orchestrierung:** Gezielte Kombination spezialisierter KI-Modelle nach Stärken (Reasoning, Großkontext-Dokumentenverarbeitung, Generative Pipelines) mit deterministischen Validierungs- und Sicherheitsinstanzen.
-- **Autonomous Agentic Systems:** Entwicklung robuster Protokolle (MCP, headless CDP/WebView2 RPC), die KI-Agenten befähigen, komplexe Workflows im Browser und auf Desktop-Systemen eigenständig auszuführen.
+Über mehr als zwei Jahrzehnte intensive Beschäftigung mit Computern habe ich ein instinktives Gespür für Systemabläufe, Schnittstellen und Fehlerquellen entwickelt. Meine Rolle als *Human in the Loop* ist die des **Architekten und Dirigenten**: Ich entwerfe die Architektur, definiere Datenflüsse und Grenzwerte und steuere modernste KI-Modelle rein über natürliche Sprache, um hochkomplexe Systeme in Rekordzeit praxistauglich umzusetzen.
+
+**Mein persönlicher Wettbewerbsvorteil:**  
+Ich nutze keine Standard-Tools von der Stange, sondern habe mir dafür mein eigenes Programmier- und Steuerungswerkzeug gebaut: das **[AGY CLI Dashboard](https://github.com/1YellowMellow1/CLI-Dashboard-for-Antigravity)** (eine C# WPF-Desktop-Umgebung mit integriertem Chromium-KI-Co-Browser, Terminals und MCP-Tooling), mit dem ich autonome KI-Agenten, Multi-Modell-Workflows und Validierungs-Pipelines mit maximaler Effizienz orchestriere.
 
 ---
 
-## 🚀 Ausgewählte Architekturen & Systeme
+## 🚀 Echte Systeme aus meiner Praxis
 
 - ⚡ **[Antigravity CLI Dashboard & Co-Browser](https://github.com/1YellowMellow1/CLI-Dashboard-for-Antigravity)**
   - Hochperformantes Desktop-Cockpit auf Basis von **WinUI 3 und C# .NET 10**.
@@ -45,12 +46,18 @@ Als **Lead AI Automation Architect** und Spezialist für **Vibe Coding** versteh
 
 ---
 
-## 🛠️ Tech Stack & Kompetenzen
+## 🛠️ Architekturen & Technologien (umgesetzt per Vibe Coding)
 
-- **Sprachen:** TypeScript, C#, Python, JavaScript, Google Apps Script, SQL, PowerShell
-- **Desktop & UI:** .NET 10, WinUI 3, WPF, React, Tailwind CSS
-- **Backend & Protokolle:** Node.js, Hono, REST APIs, Model Context Protocol (MCP), WebView2 CDP, JSON-RPC
-- **AI Tooling & Automation:** Antigravity CLI, Gemini 2.5 Pro / Flash, Claude 3.7 Sonnet, OpenAI GPT-4o, Vite, Git
+- **Systeme & Desktop:** C# / .NET 10, WinUI 3, WPF, WebView2 / Chromium CDP
+- **Web & Cloud:** TypeScript, React, Tailwind CSS, Node.js, Hono, Google Apps Script, SQL
+- **KI & Automatisierung:** AGY CLI Dashboard, Antigravity CLI, Model Context Protocol (MCP), Multi-Agenten-Pipelines, Gemini 2.5 Pro / Flash, Claude 3.7 Sonnet, OpenAI GPT-4o
+
+---
+
+## 🛡️ Qualität, Sicherheit & Fehlerbehebung
+
+- **Bugs im Live-Betrieb:** Behebe ich schnell und gezielt über **automatische Systemmeldungen (Logs/Exceptions/Stacktraces) und empirisches Nutzer-Feedback** (in der Praxis erprobt u. a. beim Kassenprogramm und der Website der Osnabrücker Tafel e.V.). Ich übersetze Fehlersymptome über mein Systemverständnis direkt in präzise KI-Debugging-Prompts, statt mich durch tausende Codezeilen zu wühlen.
+- **Aktive KI-Sicherheitsaudits:** Ich führe beim Erstellen immer wieder umfassende **Sicherheits- und Schwachstellen-Audits mit KI** durch (AI-Red-Teaming), um Angriffsvektoren und Datenlecks nach Industriestandards abzusichern. Kritische Aktionen (Geld, sensible Daten) erfordern bei mir immer ein manuelles Freigabe-Gate.
 
 ---
 
