@@ -3,8 +3,8 @@
 <img src="avatar.png" width="160" height="160" style="border-radius: 50%; max-width: 100%; border: 3px solid #0A66C2;" alt="Dennis Wilken" />
 
 # Dennis Wilken
-### AI Solution Architect & Vibe Coder
-**Dennis Wilken – AI Architecture & Development** • Osnabrück, Germany
+### Vibe Coder & KI-Softwareentwickler
+**Dennis Wilken – AI Architecture & Development** • Osnabrück, Deutschland
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-Dennis%20Wilken-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/dennis-wilken/)
 [![XING](https://img.shields.io/badge/XING-Dennis%20Wilken-006567?style=for-the-badge&logo=xing&logoColor=white)](https://www.xing.com/profile/Dennis_Wilken01769)
@@ -15,49 +15,49 @@
 
 </div>
 
-## 🎯 Über mich: Der Dirigent & Architekt (Vibe Coding)
+## 🎯 Über mich: Vibe Coding & System-Architektur
 
-Ich entwickle Software heute nicht mehr durch mühsames Eintippen von Quellcode Zeile für Zeile. Ich spreche keine Programmiersprache flüssig und lese Code nicht manuell auf Syntaxebene – ich bin **Vibe Coder und System-Architekt**.
+Ich entwickle Software heute nicht mehr, indem ich Zeile für Zeile Code von Hand schreibe. Ich lerne keine Programmiersprachen auswendig und wühle mich nicht durch Syntaxdetails – ich bin **Vibe Coder**.
 
-Über mehr als zwei Jahrzehnte intensive Beschäftigung mit Computern habe ich ein instinktives Gespür für Systemabläufe, Schnittstellen und Fehlerquellen entwickelt. Meine Rolle als *Human in the Loop* ist die des **Architekten und Dirigenten**: Ich entwerfe die Architektur, definiere Datenflüsse und Grenzwerte und steuere modernste KI-Modelle rein über natürliche Sprache, um hochkomplexe Systeme in Rekordzeit praxistauglich umzusetzen.
+Nach über 20 Jahren praktischer Erfahrung mit Computern und Software verstehe ich genau, wie Systeme, Schnittstellen und Datenflüsse aufgebaut sein müssen, damit sie im Alltag stabil funktionieren. Ich gebe die Richtung, die Architektur und die Logik vor – und lasse spezialisierte KI-Modelle den Programmcode schreiben und optimieren.
 
 **Mein persönlicher Wettbewerbsvorteil:**  
-Ich nutze keine Standard-Tools von der Stange, sondern habe mir dafür mein eigenes Programmier- und Steuerungswerkzeug gebaut: das **[AGY CLI Dashboard](https://github.com/1YellowMellow1/CLI-Dashboard-for-Antigravity)** (eine C# WPF-Desktop-Umgebung mit integriertem Chromium-KI-Co-Browser, Terminals und MCP-Tooling), mit dem ich autonome KI-Agenten, Multi-Modell-Workflows und Validierungs-Pipelines mit maximaler Effizienz orchestriere.
+Ich nutze keine Standard-Tools von der Stange, sondern habe mir dafür mein eigenes Programmier- und Steuerungswerkzeug gebaut: das **[AGY CLI Dashboard](https://github.com/1YellowMellow1/CLI-Dashboard-for-Antigravity)**. Damit steuere ich autonome KI-Agenten, automatisierte Browser-Abläufe und Programmier-Pipelines deutlich schneller und kontrollierter als gewohnt.
 
 ---
 
 ## 🚀 Echte Systeme aus meiner Praxis
 
 - ⚡ **[Antigravity CLI Dashboard & Co-Browser](https://github.com/1YellowMellow1/CLI-Dashboard-for-Antigravity)**
-  - Hochperformantes Desktop-Cockpit auf Basis von **WinUI 3 und C# .NET 10**.
-  - Bidirektionaler Headless WebView2/CDP-Server mit anatomischer DOM-Inspektion, interaktivem Layout-Fingerprinting und In-Memory Flight-Recorder für autonome Web-Agenten.
-  - Mehrstufiges Subagenten-Audit zur vollautomatischen Regressions- und Sicherheitsprüfung.
+  - Desktop-Cockpit auf Basis von **WinUI 3 und C# .NET 10**.
+  - Integrierter Chromium-Co-Browser mit direkter CDP-Fernsteuerung zur Klick- und Formular-Automatisierung für KI-Agenten.
+  - Automatisierte Sicherheitschecks und Code-Audits vor jedem Release.
 
 - 📖 **[BookU (booku.studio)](https://www.booku.studio)**
   - Professionelle Publishing- & Interactive-Storytelling-Plattform.
-  - Bring-Your-Own-Key (BYOK) Architektur für 100% Privatsphäre und minimale Plattformkosten bei voller World-State-Konsistenz.
+  - Bring-Your-Own-Key (BYOK) Modell für maximale Privatsphäre der Autoren und konsistente Geschichtenwelten.
 
 - 🏫 **Kindertafel schule.digital**
-  - Bildungsplattform zur Entlastung von Lehrkräften bei Differenzierung und Unterrichtsvorbereitung.
-  - Direkte Ingestion realer Unterrichtsmaterialien (PDFs, Buchscans) über Large Context Windows auf einem schlanken Node.js/Hono-Backend.
+  - Bildungsplattform zur Entlastung von Lehrkräften bei Unterrichtsvorbereitung und Materialanpassung.
+  - Direkte Verarbeitung von Unterrichtsmaterialien (PDFs, Buchscans) über große KI-Kontextfenster auf einem schlanken Node.js/Hono-Backend.
 
-- 🏢 **Tafel-Infrastruktur & Cloud Automation**
-  - Maßgeschneiderte Kassensysteme (Touch-Kasse), relationale SQL-Datenbanken und Google Apps Script Clasp-Pipelines für die Osnabrücker Tafel e.V. zur fehlerfreien Bewältigung des täglichen Betriebs.
+- 🏢 **Tafel-Infrastruktur & digitale Werkzeuge**
+  - Maßgeschneiderte Touch-Kassensysteme, relationale SQL-Datenbanken und Google Apps Script Clasp-Pipelines für die Osnabrücker Tafel e.V. zur fehlerfreien Bewältigung des täglichen Betriebs.
 
 ---
 
 ## 🛠️ Architekturen & Technologien (umgesetzt per Vibe Coding)
 
 - **Systeme & Desktop:** C# / .NET 10, WinUI 3, WPF, WebView2 / Chromium CDP
-- **Web & Cloud:** TypeScript, React, Tailwind CSS, Node.js, Hono, Google Apps Script, SQL
-- **KI & Automatisierung:** AGY CLI Dashboard, Antigravity CLI, Model Context Protocol (MCP), Multi-Agenten-Pipelines, Gemini 2.5 Pro / Flash, Claude 3.7 Sonnet, OpenAI GPT-4o
+- **Web & Backend:** TypeScript, React, Tailwind CSS, Node.js, Hono, Google Apps Script, SQL
+- **KI & Automatisierung:** AGY CLI Dashboard, Antigravity CLI, Model Context Protocol (MCP), KI-Agenten-Steuerung, Gemini 2.5 Pro / Flash, Claude 3.7 Sonnet, OpenAI GPT-4o
 
 ---
 
 ## 🛡️ Qualität, Sicherheit & Fehlerbehebung
 
-- **Bugs im Live-Betrieb:** Behebe ich schnell und gezielt über **automatische Systemmeldungen (Logs/Exceptions/Stacktraces) und empirisches Nutzer-Feedback** (in der Praxis erprobt u. a. beim Kassenprogramm und der Website der Osnabrücker Tafel e.V.). Ich übersetze Fehlersymptome über mein Systemverständnis direkt in präzise KI-Debugging-Prompts, statt mich durch tausende Codezeilen zu wühlen.
-- **Aktive KI-Sicherheitsaudits:** Ich führe beim Erstellen immer wieder umfassende **Sicherheits- und Schwachstellen-Audits mit KI** durch (AI-Red-Teaming), um Angriffsvektoren und Datenlecks nach Industriestandards abzusichern. Kritische Aktionen (Geld, sensible Daten) erfordern bei mir immer ein manuelles Freigabe-Gate.
+- **Fehlerbehebung im Live-Betrieb:** Wenn ein Problem auftritt, wälze ich nicht stundenlang Quellcodezeilen. Ich werte Fehlermeldungen, System-Logs und das direkte Feedback der Anwender aus (in der Praxis erprobt u. a. beim Kassenprogramm und der Website der Osnabrücker Tafel e.V.). Ich erkenne die Ursache sofort über mein Systemverständnis und lasse die KI den passenden Fix gezielt umsetzen.
+- **Aktive KI-Sicherheitsaudits:** Sicherheit überlasse ich nicht dem Zufall. Ich lasse beim Erstellen und vor Releases systematische KI-Sicherheitsaudits über die Systeme laufen, um Schwachstellen aufzuspüren. Bei sensiblen Dingen wie Geld oder Nutzerdaten gilt immer: Keine Aktion ohne meine manuelle Freigabe.
 
 ---
 
