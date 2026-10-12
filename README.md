@@ -22,16 +22,17 @@ Ich entwickle Software heute nicht mehr, indem ich Zeile für Zeile Code von Han
 Nach über 20 Jahren praktischer Erfahrung mit Computern und Software verstehe ich genau, wie Systeme, Schnittstellen und Datenflüsse aufgebaut sein müssen, damit sie im Alltag stabil funktionieren. Ich gebe die Richtung, die Architektur und die Logik vor – und lasse spezialisierte KI-Modelle den Programmcode schreiben und optimieren.
 
 **Mein persönlicher Wettbewerbsvorteil:**  
-Ich nutze keine Standard-Tools von der Stange, sondern habe mir dafür mein eigenes Programmier- und Steuerungswerkzeug gebaut: das **[AGY CLI Dashboard](https://github.com/1YellowMellow1/CLI-Dashboard-for-Antigravity)**. Damit steuere ich autonome KI-Agenten, automatisierte Browser-Abläufe und Programmier-Pipelines deutlich schneller und kontrollierter als gewohnt.
+Ich nutze keine Standard-Tools von der Stange, sondern habe mir dafür mein eigenes Programmier- und Steuerungswerkzeug gebaut: das **[AGY CLI Dashboard](https://github.com/1YellowMellow1/agy-cli-dashboard-public)**. Damit steuere ich autonome KI-Agenten, automatisierte Browser-Abläufe und Programmier-Pipelines deutlich schneller und kontrollierter als gewohnt.
 
 ---
 
 ## 🚀 Echte Systeme aus meiner Praxis
 
-- ⚡ **[Antigravity CLI Dashboard & Co-Browser](https://github.com/1YellowMellow1/CLI-Dashboard-for-Antigravity)**
-  - Desktop-Cockpit auf Basis von **WinUI 3 und C# .NET 10**.
-  - Integrierter Chromium-Co-Browser mit direkter CDP-Fernsteuerung zur Klick- und Formular-Automatisierung für KI-Agenten.
-  - Automatisierte Sicherheitschecks und Code-Audits vor jedem Release.
+- ⚡ **[Antigravity CLI Dashboard & Co-Browser (Open Source)](https://github.com/1YellowMellow1/agy-cli-dashboard-public)** • [Live Showcase](https://1yellowmellow1.github.io/agy-cli-dashboard-public/)
+  - Offizielles **BookU Open-Source-Projekt**: High-Performance Windows-Cockpit für die Google Antigravity CLI (`agy`).
+  - Nativ gebaut mit **WinUI 3 und C# .NET 10** – Direct-Render ConPTY Terminal Engine (Zero Electron Bloat).
+  - Integrierter Split-Screen AI-Co-Browser (Chromium CDP / WebView2) mit nativer MCP-Fernsteuerung und DOM-Map-Inspektion.
+  - Connect-RPC Language Server Diagnose-Kabel und Live-Diffs direkt aus der Google Antigravity Engine (`exa.language_server_pb`).
 
 - 📖 **[BookU (booku.studio)](https://www.booku.studio)**
   - Professionelle Publishing- & Interactive-Storytelling-Plattform.
@@ -50,7 +51,7 @@ Ich nutze keine Standard-Tools von der Stange, sondern habe mir dafür mein eige
 
 - **Systeme & Desktop:** C# / .NET 10, WinUI 3, WPF, WebView2 / Chromium CDP
 - **Web & Backend:** TypeScript, React, Tailwind CSS, Node.js, Hono, Google Apps Script, SQL
-- **KI & Automatisierung:** AGY CLI Dashboard, Antigravity CLI, Model Context Protocol (MCP), KI-Agenten-Steuerung, Gemini 2.5 Pro / Flash, Claude 3.7 Sonnet, OpenAI GPT-4o
+- **KI & Automatisierung:** AGY CLI Dashboard, Antigravity CLI, Model Context Protocol (MCP), KI-Agenten-Steuerung, Google Gemini 3.8 Flash / 3.7 Flash, Anthropic Claude Sonnet 5.5, OpenAI GPT-6.1 Sol / o3 Pro
 
 ---
 
