@@ -1,0 +1,3 @@
+# 1YellowMellow1 TODOs & Notizen
+
+- [ ] Erste Projektaufgabe erfassen...
