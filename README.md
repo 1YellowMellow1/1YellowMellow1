@@ -30,9 +30,9 @@ Für maximale Präzision und Geschwindigkeit setze ich nicht auf Standardlösung
 
 - ⚡ **[Antigravity CLI Dashboard & Co-Browser (Open Source)](https://github.com/1YellowMellow1/agy-cli-dashboard-public)** • [Live Showcase](https://1yellowmellow1.github.io/agy-cli-dashboard-public/)
   - Offizielles **BookU Open-Source-Projekt**: High-Performance Windows-Cockpit für die Google Antigravity CLI (`agy`).
-  - Nativ gebaut mit **WinUI 3 und C# .NET 10** – Direct-Render ConPTY Terminal Engine (Zero Electron Bloat).
-  - Integrierter Split-Screen AI-Co-Browser (Chromium CDP / WebView2) mit nativer MCP-Fernsteuerung und DOM-Map-Inspektion.
-  - Connect-RPC Language Server Diagnose-Kabel und Live-Diffs direkt aus der Google Antigravity Engine (`exa.language_server_pb`).
+  - Nativ gebaut mit **WinUI 3 und C# .NET 10** – Direct-Render ConPTY Terminal Engine für latenzfreie Agenten-Steuerung.
+  - Integrierter Split-Screen AI-Co-Browser (Chromium CDP / WebView2) mit MCP-Fernsteuerung und visueller DOM-Inspektion für Web-Agenten.
+  - Direkte Language-Server-Anbindung für Echtzeit-Diagnosen und visuelle Live-Diffs bei KI-Codeänderungen.
 
 - 🛒 **POS-Kassensystem & Self-Service-Portal (Osnabrücker Tafel e.V.)**
   - Echtzeit-Kassensystem für den täglichen Hochfrequenz-Ausgabebetrieb mit integrierter Touch-Bedienung.
@@ -40,14 +40,15 @@ Für maximale Präzision und Geschwindigkeit setze ich nicht auf Standardlösung
   - Skalierbare Cloud-Architektur auf Basis von **React, Firebase/Firestore und Google Cloud Run**.
 
 - 🖥️ **Kontrollboard – Telephony & Office Automation (Osnabrücker Tafel e.V.)**
-  - Offline-First Desktop-Leitstand für Verwaltung und Einsatzkoordination (**Electron, Next.js, Hidden-Server-Pattern**).
-  - Nahtlose PBX/Telefonie-Integration via **FRITZ!Box TR-064** für Anruferidentifikation und automatischen Datenabgleich.
-  - Integrierte Tourenoptimierung mit **Google-Maps-Routenplanung** und automatisiertem **Contact-Mining**.
+  - Offline-First Desktop-Leitstand für Verwaltung und Einsatzkoordination (**Electron & Next.js** mit lokaler Server-Architektur).
+  - Nahtlose PBX/Telefonie-Integration via **FRITZ!Box (TR-064)** für Anruferidentifikation und automatischen Datenabgleich.
+  - Integrierte Tourenoptimierung mit **Google-Maps-Routenplanung** und automatisiertem Contact-Mining.
 
-- ⚔️ **Gothic II: Echo des Schläfers – Real-Time AI Engine Bridge & 64-Bit Vulkan Sandbox**
-  - **Low-Latency Shared-Memory IPC (8 KB SHM v2):** Bidirektionale Echtzeit-Kopplung zwischen der nativen **C++20 / Vulkan 1.3 Engine (OpenGothic)** und einem fensterlosen **Python-3.12-KI-Daemon (Google Gemini API)** inklusive In-Engine-HUD, Gedanken-Chat und deterministischen Offline-Fallbacks.
-  - **Custom Daedalus-Bytecode-Toolkit:** Eigenes Python-basiertes Bytecode-Compiler- und Injektions-Toolkit (`GOTHIC.DAT` & VDFS-Overlays als moderner 64-Bit-Ersatz für inkompatible 32-Bit-Legacy-Hacks).
-  - **Kognitive In-Game-KI & Dynamische Systeme:** Kontextbewusste Seelen-KI (*Krushak*) auf Basis von Live-Gameplay-Telemetrie sowie ein vollwertiges, ARK-inspiriertes Bestienzähmungs- und Begleitersystem unter 100 % Wahrung der deutschen Original-Sprachausgabe.
+- ⚔️ **Gothic II: Echo des Schläfers – Live-KI-Begleiter & ARK-Bestienzähmung**
+  - **Konzeption & Game-Design:** Live-KI-Begleiter im Spiel („Echo des Schläfers“ / Krushak via Google Gemini), der in Echtzeit auf Spielsituationen reagiert und über einen direkten Gedanken-Chat im Spiel angesprochen werden kann.
+  - **ARK-Bestienzähmung in Gothic:** Übertragung früherer Modding-Erfahrungen aus ARK: Survival Evolved in die Welt von Gothic II (Betäubung, Zähmung und Begleiter-Steuerung).
+  - **Originaltreue & Barrierefreiheit:** Bewusster Verzicht auf künstliche KI-Stimmenklone – nahtlose Integration über In-Engine-HUD, Untertitel und SFX zur Wahrung der deutschen Originalsprecher.
+  - **100 % Vibe Coding:** Vollständige technische Realisierung der Engine-Brücke rein über präzise Zielvorgaben, Konzeption und iteratives Live-Testing mit autonomen KI-Agenten ohne eigene C++-Kenntnisse.
 
 - 📖 **[BookU (booku.studio)](https://www.booku.studio)**
   - Professionelle Publishing- & Interactive-Storytelling-Plattform.
@@ -61,8 +62,8 @@ Für maximale Präzision und Geschwindigkeit setze ich nicht auf Standardlösung
 
 ## 🛠️ Architekturen & Technologien (umgesetzt per Vibe Coding)
 
-- **Systeme & Desktop:** C# / .NET 10, WinUI 3, WPF, WebView2 / Chromium CDP, Electron, C++20, Vulkan 1.3 (OpenGothic), Shared-Memory IPC, Daedalus Bytecode VM
-- **Web, Cloud & Backend:** Python 3.12, TypeScript, React, Next.js, Vite, Tailwind CSS, Node.js, Hono, Google Apps Script, SQL / SQLite FTS5, Firebase, Google Cloud Run, Docker
+- **Systeme & Desktop:** C# / .NET 10, WinUI 3, WPF, WebView2 / Chromium CDP, Electron
+- **Web, Cloud & Backend:** TypeScript, React, Next.js, Vite, Tailwind CSS, Node.js, Hono, Google Apps Script, SQL / SQLite FTS5, Firebase, Google Cloud Run, Docker
 - **KI & Automatisierung:** AGY CLI Dashboard, Antigravity CLI, Model Context Protocol (MCP), Chrome DevTools Protocol (CDP), Google Gemini 4 Argon / 3.8 Flash, Anthropic Claude Opus 5.5 / Sonnet 5.5, OpenAI GPT-6.1 Sol Pro, OpenRouter Multi-Model-Gateway
 
 ---
