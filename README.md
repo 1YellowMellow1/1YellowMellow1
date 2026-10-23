@@ -2,9 +2,9 @@
 
 <img src="avatar.png" width="160" height="160" style="border-radius: 50%; max-width: 100%; border: 3px solid #0A66C2;" alt="Dennis Wilken" />
 
-# Dennis Wilken
-### Vibe Coder & KI-Softwareentwickler
 **Dennis Wilken – AI Architecture & Development** • Osnabrück, Deutschland
+
+# Dennis Wilken | AI Solution Architect & Vibe Coding Specialist
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-Dennis%20Wilken-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/dennis-wilken/)
 [![XING](https://img.shields.io/badge/XING-Dennis%20Wilken-006567?style=for-the-badge&logo=xing&logoColor=white)](https://www.xing.com/profile/Dennis_Wilken01769)
@@ -15,14 +15,14 @@
 
 </div>
 
-## 🎯 Über mich: Vibe Coding & System-Architektur
+## 🎯 Über mich: System-Architektur & Vibe Coding
 
-Ich entwickle Software heute nicht mehr, indem ich Zeile für Zeile Code von Hand schreibe. Ich lerne keine Programmiersprachen auswendig und wühle mich nicht durch Syntaxdetails – ich bin **Vibe Coder**.
+Als AI Solution Architect und Vibe Coding Specialist verbinde ich über **20 Jahre praktische System-, Hardware- und Software-Erfahrung** mit modernster KI-gestützter Entwicklung. Meine Rolle ist die des **Architekten und Dirigenten**: Ich konzipiere robuste Systemarchitekturen, entwerfe relationale Datenmodelle, definiere Schnittstellen und etabliere strenge Validierungslogiken – während hochspezialisierte State-of-the-Art-KI-Modelle die Codegenerierung und Optimierung übernehmen.
 
-Nach über 20 Jahren praktischer Erfahrung mit Computern und Software verstehe ich genau, wie Systeme, Schnittstellen und Datenflüsse aufgebaut sein müssen, damit sie im Alltag stabil funktionieren. Ich gebe die Richtung, die Architektur und die Logik vor – und lasse spezialisierte KI-Modelle den Programmcode schreiben und optimieren.
+Dieser Ansatz ermöglicht die Realisierung unternehmenskritischer Softwarelösungen in Rekordzeit bei kompromissloser Codequalität, Ausfallsicherheit und Wartbarkeit.
 
 **Mein persönlicher Wettbewerbsvorteil:**  
-Ich nutze keine Standard-Tools von der Stange, sondern habe mir dafür mein eigenes Programmier- und Steuerungswerkzeug gebaut: das **[AGY CLI Dashboard](https://github.com/1YellowMellow1/agy-cli-dashboard-public)**. Damit steuere ich autonome KI-Agenten, automatisierte Browser-Abläufe und Programmier-Pipelines deutlich schneller und kontrollierter als gewohnt.
+Für maximale Präzision und Geschwindigkeit setze ich nicht auf Standardlösungen von der Stange, sondern auf mein selbst entwickeltes Steuerungswerkzeug: das **[AGY CLI Dashboard](https://github.com/1YellowMellow1/agy-cli-dashboard-public)**. Eine High-Performance-Desktop-Umgebung (C# .NET 10, WinUI 3, Direct-Render ConPTY Terminal Engine, Split-Screen AI-Co-Browser via Chromium CDP, Google Connect-RPC Bridge), mit der ich autonome KI-Agenten, Multi-Modell-Workflows und Validierungs-Pipelines mit voller Kontrolle orchestriere.
 
 ---
 
@@ -34,6 +34,16 @@ Ich nutze keine Standard-Tools von der Stange, sondern habe mir dafür mein eige
   - Integrierter Split-Screen AI-Co-Browser (Chromium CDP / WebView2) mit nativer MCP-Fernsteuerung und DOM-Map-Inspektion.
   - Connect-RPC Language Server Diagnose-Kabel und Live-Diffs direkt aus der Google Antigravity Engine (`exa.language_server_pb`).
 
+- 🛒 **POS-Kassensystem & Self-Service-Portal (Osnabrücker Tafel e.V.)**
+  - Echtzeit-Kassensystem für den täglichen Hochfrequenz-Ausgabebetrieb mit integrierter Touch-Bedienung.
+  - DSGVO-konforme QR-Neukundenregistrierung mit Duplikat-Erkennung und Hardware-Etikettendruck für Ausweise.
+  - Skalierbare Cloud-Architektur auf Basis von **React, Firebase/Firestore und Google Cloud Run**.
+
+- 🖥️ **Kontrollboard – Telephony & Office Automation (Osnabrücker Tafel e.V.)**
+  - Offline-First Desktop-Leitstand für Verwaltung und Einsatzkoordination (**Electron, Next.js, Hidden-Server-Pattern**).
+  - Nahtlose PBX/Telefonie-Integration via **FRITZ!Box TR-064** für Anruferidentifikation und automatischen Datenabgleich.
+  - Integrierte Tourenoptimierung mit **Google-Maps-Routenplanung** und automatisiertem **Contact-Mining**.
+
 - 📖 **[BookU (booku.studio)](https://www.booku.studio)**
   - Professionelle Publishing- & Interactive-Storytelling-Plattform.
   - Bring-Your-Own-Key (BYOK) Modell für maximale Privatsphäre der Autoren und konsistente Geschichtenwelten.
@@ -42,23 +52,20 @@ Ich nutze keine Standard-Tools von der Stange, sondern habe mir dafür mein eige
   - Bildungsplattform zur Entlastung von Lehrkräften bei Unterrichtsvorbereitung und Materialanpassung.
   - Direkte Verarbeitung von Unterrichtsmaterialien (PDFs, Buchscans) über große KI-Kontextfenster auf einem schlanken Node.js/Hono-Backend.
 
-- 🏢 **Tafel-Infrastruktur & digitale Werkzeuge**
-  - Maßgeschneiderte Touch-Kassensysteme, relationale SQL-Datenbanken und Google Apps Script Clasp-Pipelines für die Osnabrücker Tafel e.V. zur fehlerfreien Bewältigung des täglichen Betriebs.
-
 ---
 
 ## 🛠️ Architekturen & Technologien (umgesetzt per Vibe Coding)
 
-- **Systeme & Desktop:** C# / .NET 10, WinUI 3, WPF, WebView2 / Chromium CDP
-- **Web & Backend:** TypeScript, React, Tailwind CSS, Node.js, Hono, Google Apps Script, SQL
-- **KI & Automatisierung:** AGY CLI Dashboard, Antigravity CLI, Model Context Protocol (MCP), KI-Agenten-Steuerung, Google Gemini 3.8 Flash / 3.7 Flash, Anthropic Claude Sonnet 5.5, OpenAI GPT-6.1 Sol / o3 Pro
+- **Systeme & Desktop:** C# / .NET 10, WinUI 3, WPF, WebView2 / Chromium CDP, Electron
+- **Web, Cloud & Backend:** TypeScript, React, Next.js, Vite, Tailwind CSS, Node.js, Hono, Google Apps Script, SQL / SQLite FTS5, Firebase, Google Cloud Run, Docker
+- **KI & Automatisierung:** AGY CLI Dashboard, Antigravity CLI, Model Context Protocol (MCP), Chrome DevTools Protocol (CDP), Google Gemini 4 Argon / 3.8 Flash, Anthropic Claude Opus 5.5 / Sonnet 5.5, OpenAI GPT-6.1 Sol Pro, OpenRouter Multi-Model-Gateway
 
 ---
 
 ## 🛡️ Qualität, Sicherheit & Fehlerbehebung
 
-- **Fehlerbehebung im Live-Betrieb:** Wenn ein Problem auftritt, wälze ich nicht stundenlang Quellcodezeilen. Ich werte Fehlermeldungen, System-Logs und das direkte Feedback der Anwender aus (in der Praxis erprobt u. a. beim Kassenprogramm und der Website der Osnabrücker Tafel e.V.). Ich erkenne die Ursache sofort über mein Systemverständnis und lasse die KI den passenden Fix gezielt umsetzen.
-- **Aktive KI-Sicherheitsaudits:** Sicherheit überlasse ich nicht dem Zufall. Ich lasse beim Erstellen und vor Releases systematische KI-Sicherheitsaudits über die Systeme laufen, um Schwachstellen aufzuspüren. Bei sensiblen Dingen wie Geld oder Nutzerdaten gilt immer: Keine Aktion ohne meine manuelle Freigabe.
+- **Diagnose & Fehlerbehebung im Live-Betrieb:** Bei Störungen im Produktivbetrieb analysiere ich Systemmetriken, Logs und Anwender-Feedback mit tiefem Systemverständnis (in der Praxis erprobt u. a. beim POS-Kassensystem und der Infrastruktur der Osnabrücker Tafel e.V.). Ursachen werden punktgenau isoliert und über zielgerichtete KI-Pipelines testgetrieben behoben.
+- **Aktive KI-Sicherheitsaudits & Freigabe-Gates:** Sicherheit und Datenintegrität sind integraler Bestandteil der Architektur. Automatisierte KI-Sicherheitsaudits prüfen jeden Release auf Schwachstellen. Bei finanz- und datenschutzrelevanten Operationen gilt das strikte Human-in-the-Loop-Prinzip (Freigabe-Gates).
 
 ---
 
