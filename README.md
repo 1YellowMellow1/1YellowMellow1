@@ -44,6 +44,11 @@ Für maximale Präzision und Geschwindigkeit setze ich nicht auf Standardlösung
   - Nahtlose PBX/Telefonie-Integration via **FRITZ!Box TR-064** für Anruferidentifikation und automatischen Datenabgleich.
   - Integrierte Tourenoptimierung mit **Google-Maps-Routenplanung** und automatisiertem **Contact-Mining**.
 
+- ⚔️ **Gothic II: Echo des Schläfers – Real-Time AI Engine Bridge & 64-Bit Vulkan Sandbox**
+  - **Low-Latency Shared-Memory IPC (8 KB SHM v2):** Bidirektionale Echtzeit-Kopplung zwischen der nativen **C++20 / Vulkan 1.3 Engine (OpenGothic)** und einem fensterlosen **Python-3.12-KI-Daemon (Google Gemini API)** inklusive In-Engine-HUD, Gedanken-Chat und deterministischen Offline-Fallbacks.
+  - **Custom Daedalus-Bytecode-Toolkit:** Eigenes Python-basiertes Bytecode-Compiler- und Injektions-Toolkit (`GOTHIC.DAT` & VDFS-Overlays als moderner 64-Bit-Ersatz für inkompatible 32-Bit-Legacy-Hacks).
+  - **Kognitive In-Game-KI & Dynamische Systeme:** Kontextbewusste Seelen-KI (*Krushak*) auf Basis von Live-Gameplay-Telemetrie sowie ein vollwertiges, ARK-inspiriertes Bestienzähmungs- und Begleitersystem unter 100 % Wahrung der deutschen Original-Sprachausgabe.
+
 - 📖 **[BookU (booku.studio)](https://www.booku.studio)**
   - Professionelle Publishing- & Interactive-Storytelling-Plattform.
   - Bring-Your-Own-Key (BYOK) Modell für maximale Privatsphäre der Autoren und konsistente Geschichtenwelten.
@@ -56,8 +61,8 @@ Für maximale Präzision und Geschwindigkeit setze ich nicht auf Standardlösung
 
 ## 🛠️ Architekturen & Technologien (umgesetzt per Vibe Coding)
 
-- **Systeme & Desktop:** C# / .NET 10, WinUI 3, WPF, WebView2 / Chromium CDP, Electron
-- **Web, Cloud & Backend:** TypeScript, React, Next.js, Vite, Tailwind CSS, Node.js, Hono, Google Apps Script, SQL / SQLite FTS5, Firebase, Google Cloud Run, Docker
+- **Systeme & Desktop:** C# / .NET 10, WinUI 3, WPF, WebView2 / Chromium CDP, Electron, C++20, Vulkan 1.3 (OpenGothic), Shared-Memory IPC, Daedalus Bytecode VM
+- **Web, Cloud & Backend:** Python 3.12, TypeScript, React, Next.js, Vite, Tailwind CSS, Node.js, Hono, Google Apps Script, SQL / SQLite FTS5, Firebase, Google Cloud Run, Docker
 - **KI & Automatisierung:** AGY CLI Dashboard, Antigravity CLI, Model Context Protocol (MCP), Chrome DevTools Protocol (CDP), Google Gemini 4 Argon / 3.8 Flash, Anthropic Claude Opus 5.5 / Sonnet 5.5, OpenAI GPT-6.1 Sol Pro, OpenRouter Multi-Model-Gateway
 
 ---
